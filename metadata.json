@@ -1,0 +1,5 @@
+{
+  "name": "X2 Blocks AI Master",
+  "description": "Assistant intelligent pour le jeu X2 Blocks. Capturez votre écran et obtenez le coup parfait suggéré par l'IA.",
+  "requestFramePermissions": ["camera"]
+}
